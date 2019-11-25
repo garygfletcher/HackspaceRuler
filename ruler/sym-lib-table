@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name ATSAMD21E)(type Legacy)(uri /Users/gary/Documents/GitHub/HackspaceRuler/ruler/SAMD21E17A.lib)(options "")(descr ""))
+)
