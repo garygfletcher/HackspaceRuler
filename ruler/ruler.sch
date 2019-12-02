@@ -754,41 +754,41 @@ Wire Wire Line
 $Comp
 L Connector:TestPoint TP3
 U 1 1 5DE1CC13
-P 1350 850
-F 0 "TP3" H 1408 968 50  0000 L CNN
-F 1 "TestPoint" H 1408 877 50  0000 L CNN
-F 2 "TestPoint:TestPoint_Pad_D1.5mm" H 1550 850 50  0001 C CNN
-F 3 "~" H 1550 850 50  0001 C CNN
-	1    1350 850 
+P 1600 1000
+F 0 "TP3" H 1658 1118 50  0000 L CNN
+F 1 "TestPoint" H 1658 1027 50  0000 L CNN
+F 2 "TestPoint:TestPoint_Pad_D1.5mm" H 1800 1000 50  0001 C CNN
+F 3 "~" H 1800 1000 50  0001 C CNN
+	1    1600 1000
 	1    0    0    -1  
 $EndComp
 $Comp
 L Connector:TestPoint TP4
 U 1 1 5DE1D5DC
-P 1850 850
-F 0 "TP4" H 1908 968 50  0000 L CNN
-F 1 "TestPoint" H 1908 877 50  0000 L CNN
-F 2 "TestPoint:TestPoint_Pad_D1.5mm" H 2050 850 50  0001 C CNN
-F 3 "~" H 2050 850 50  0001 C CNN
-	1    1850 850 
+P 2100 1000
+F 0 "TP4" H 2158 1118 50  0000 L CNN
+F 1 "TestPoint" H 2158 1027 50  0000 L CNN
+F 2 "TestPoint:TestPoint_Pad_D1.5mm" H 2300 1000 50  0001 C CNN
+F 3 "~" H 2300 1000 50  0001 C CNN
+	1    2100 1000
 	1    0    0    -1  
 $EndComp
 $Comp
 L Connector:TestPoint TP5
 U 1 1 5DE1DA81
-P 2400 850
-F 0 "TP5" H 2458 968 50  0000 L CNN
-F 1 "TestPoint" H 2458 877 50  0000 L CNN
-F 2 "TestPoint:TestPoint_Pad_D1.5mm" H 2600 850 50  0001 C CNN
-F 3 "~" H 2600 850 50  0001 C CNN
-	1    2400 850 
+P 2650 1000
+F 0 "TP5" H 2708 1118 50  0000 L CNN
+F 1 "TestPoint" H 2708 1027 50  0000 L CNN
+F 2 "TestPoint:TestPoint_Pad_D1.5mm" H 2850 1000 50  0001 C CNN
+F 3 "~" H 2850 1000 50  0001 C CNN
+	1    2650 1000
 	1    0    0    -1  
 $EndComp
-Text Label 1850 850  3    50   ~ 0
+Text Label 2100 1000 3    50   ~ 0
 CAP2
-Text Label 2400 850  3    50   ~ 0
+Text Label 2650 1000 3    50   ~ 0
 CAP3
-Text Label 1350 850  3    50   ~ 0
+Text Label 1600 1000 3    50   ~ 0
 CAP1
 $Comp
 L power:+3.3V #PWR0121
@@ -808,14 +808,14 @@ Wire Wire Line
 $Comp
 L Connector:TestPoint TP6
 U 1 1 5DE3DFA3
-P 800 850
-F 0 "TP6" H 858 968 50  0000 L CNN
-F 1 "TestPoint" H 858 877 50  0000 L CNN
-F 2 "TestPoint:TestPoint_Pad_D1.5mm" H 1000 850 50  0001 C CNN
-F 3 "~" H 1000 850 50  0001 C CNN
-	1    800  850 
+P 1050 1000
+F 0 "TP6" H 1108 1118 50  0000 L CNN
+F 1 "TestPoint" H 1108 1027 50  0000 L CNN
+F 2 "TestPoint:TestPoint_Pad_D1.5mm" H 1250 1000 50  0001 C CNN
+F 3 "~" H 1250 1000 50  0001 C CNN
+	1    1050 1000
 	1    0    0    -1  
 $EndComp
-Text Label 800  850  3    50   ~ 0
+Text Label 1050 1000 3    50   ~ 0
 CAP0
 $EndSCHEMATC
